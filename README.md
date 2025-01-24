@@ -8,4 +8,4 @@ Features:
 - Theme system
 - Multiversion support (1.8-1.12)
 
-Download here: [here(https://www.spigotmc.org/resources/medusa.83345/)]
+Download here: https://www.spigotmc.org/resources/medusa.83345/
