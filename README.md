@@ -1,9 +1,12 @@
 # Medusa Anticheat
 
-Anticheat for Spigot (and *some* related forks) servers.
+Automatic server moderation system for Spigot 1.8-1.12 servers.
 
-Supports 1.7/1.8 primarily, 1.9-1.12 support is experimental and will be fully implemented soon.
+Features:
+- Real time behaviour anomaly detection + mitigation through proven and accurate detection methods
+- Lightweight, little to no performance overhead
+- Theme system
+- Multiversion support (1.8-1.12)
 
-https://www.spigotmc.org/resources/medusa-anticheat-fast-and-reliable-detections-3-2-reach-detection.83345/
-
-https://www.mc-market.org/resources/18684/
+Download here:
+(SpigotMC link)[(https://www.spigotmc.org/resources/medusa.83345/)]
