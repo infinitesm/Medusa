@@ -1,4 +1,4 @@
-# Medusa Anticheat
+# Medusa
 
 Automatic server moderation system for Spigot 1.8-1.12 servers.
 
