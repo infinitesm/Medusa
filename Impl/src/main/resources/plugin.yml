@@ -1,7 +1,7 @@
 name: Medusa
 version: 1.5.3
-main: com.gladurbad.medusa.MedusaPlugin
-authors: [GladUrBad]
+main: ai.medusa.anticheat.MedusaPlugin
+authors: [infinitesm]
 description: Medusa Anticheat
 
 commands:

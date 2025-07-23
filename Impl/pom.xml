@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>Medusa</artifactId>
-        <groupId>com.gladurbad</groupId>
+        <groupId>ai.medusa</groupId>
         <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -39,7 +39,7 @@
                             <relocations>
                                 <relocation>
                                     <pattern>io.github.retrooper.packetevents</pattern>
-                                    <shadedPattern>com.gladurbad.medusa.packetevents</shadedPattern>
+                                    <shadedPattern>ai.medusa.anticheat.packetevents</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>
@@ -57,7 +57,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.gladurbad</groupId>
+            <groupId>ai.medusa</groupId>
             <artifactId>API</artifactId>
             <version>1.1.6</version>
         </dependency>
